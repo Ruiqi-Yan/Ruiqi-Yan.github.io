@@ -25,9 +25,9 @@ author:
   avatar           : "my_profile.png"
   name             : "Ruiqi Yan"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  employer         : # "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "yanruiqi@sjtu.edu.cn" 
 
