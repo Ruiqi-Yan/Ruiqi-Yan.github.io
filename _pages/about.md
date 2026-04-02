@@ -28,7 +28,7 @@ Advised by [Xinsheng Wang](https://xinshengwang.github.io/)
 <sub>*2025.7-2026.3*</sub> 
 
 Research Intern @ [SJTU Cross Media Language Intelligence Lab (X-LANCE)](https://x-lance.github.io/)  
-Supervised by Prof. [Xie Chen](https://chenxie95.github.io/)  
+Supervised by Prof. [Xie Chen](https://chenxie95.github.io/en)  
 <sub>*2024.6-present*</sub>  
 
 
