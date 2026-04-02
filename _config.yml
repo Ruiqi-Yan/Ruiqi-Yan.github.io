@@ -22,20 +22,20 @@ repository               : "Ruiqi-Yan/Ruiqi-Yan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_profile.png"
+  avatar           : "my_profile.jpg"
   name             : "Ruiqi Yan"
   pronouns         : # example: "she/her"  
-  bio              : "Shanghai Jiao Tong University"
+  bio              : "🌿 Slowly moving towards doing what really matters..."
   location         : "Shanghai, China"
-  employer         : # "Shanghai Jiao Tong University"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "yanruiqi@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=8drj94YAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-3889-2753"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
