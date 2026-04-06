@@ -47,7 +47,7 @@ Supervised by Prof. [Xie Chen](https://chenxie95.github.io/en)
     <p>
       <strong>URO-Bench: Towards Comprehensive Evaluation for End-to-End Spoken Dialogue Models</strong><br>
       <span style="color:#a05a20">Ruiqi Yan</span>, Xiquan Li, Wenxi Chen, Zhikang Niu, Chen Yang, Ziyang Ma, Kai Yu, Xie Chen<br>
-      <em>EMNLP 2025 (Findings)</em><br>
+      <em>EMNLP 2025 Findings</em><br>
       <a href="https://aclanthology.org/2025.findings-emnlp.933/">Paper</a> &nbsp;|&nbsp;
       <a href="https://github.com/Ruiqi-Yan/URO-Bench">Code</a> &nbsp;|&nbsp;
       <a href="https://huggingface.co/datasets/Honggao/URO-Bench">Dataset</a>
@@ -91,7 +91,7 @@ Supervised by Prof. [Xie Chen](https://chenxie95.github.io/en)
     <p>
       <strong>SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training</strong><br>
       Wenxi Chen, Ziyang Ma, <span style="color:#a05a20">Ruiqi Yan</span>, Yuzhe Liang, Xiquan Li, Ruiyang Xu, Zhikang Niu, Yanqiao Zhu, Yifan Yang, Zhanxun Liu, Kai Yu, Yuxuan Hu, Jinyu Li, Yan Lu, Shujie Liu, Xie Chen<br>
-      <em>ACL 2025 (Findings)</em><br>
+      <em>ACL 2025 Findings</em><br>
       <a href="https://aclanthology.org/2025.findings-acl.115/">Paper</a> &nbsp;|&nbsp;
       <a href="https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/s2s">Code</a> &nbsp;|&nbsp;
       <a href="https://slam-omni.github.io/">Demo</a>
@@ -113,7 +113,7 @@ Supervised by Prof. [Xie Chen](https://chenxie95.github.io/en)
     <p>
       <strong>SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization</strong><br>
       Wenxi Chen, Xinsheng Wang, <span style="color:#a05a20">Ruiqi Yan</span>, Yushen Chen, Zhikang Niu, Ziyang Ma, Xiquan Li, Yuzhe Liang, Hanlin Wen, Shunshun Yin, Ming Tao, Xie Chen<br>
-      <em>arXiv preprint arXiv:2510.16841 (2025)</em><br>
+      <em>ACL 2026 Main</em><br>
       <a href="https://arxiv.org/abs/2510.16841">Paper</a> &nbsp;|&nbsp;
       <a href="https://github.com/Soul-AILab/SAC">Code</a> &nbsp;|&nbsp;
       <a href="https://sac-codec.github.io/">Demo</a>
